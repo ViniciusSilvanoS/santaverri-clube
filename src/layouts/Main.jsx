@@ -13,7 +13,7 @@ const Main = () => {
               <h1 className=''>Quintas e Domingos</h1>
           </div>
           <p className='text-xl text-center font-medium lg:text-left'> O clube de FUT7 amador que mais cresce em Porto Alegre.</p>
-          <a href=""><Button>Entrar no clube</Button></a>
+          <a href="https://chat.whatsapp.com/EKd6WF3ErN9IbX9uBwnwH2" target='_blank'><Button>Entrar no clube</Button></a>
           <div className='flex gap-8'>
               <img src={supernova} alt="Logo da empresa Supernova" />
               <img src={trius} alt="Logo da empresa Trius" />
